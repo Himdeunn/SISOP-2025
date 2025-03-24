@@ -3,7 +3,7 @@
     Note : Pengerjaan tugas ini didasarkan pada dokumen yang berjudul Appendix-A (Influential Operating Systems)
            yang sudah diberikan oleh Bapak ( Dr. Ferry Astika Saputra ST, M.Sc ) serta berikut adalah rangkumannya.
 
-<img src="./img/Appendix-A.png"></img>
+<img align="center" src="./img/Appendix-A.png"></img>
 
 ## 1. Pendahuluan Sistem Operasi
 
