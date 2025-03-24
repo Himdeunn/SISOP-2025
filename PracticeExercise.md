@@ -4,7 +4,7 @@
 Nama: Tegar Aprilian Wibowo
 NRP: 3124500049
 Dosen Pengajar: Dr. Ferry Astika Saputra ST, M.Sc  
-*Program Studi*: D3 Teknik Informatika  
+Program Studi: D3 Teknik Informatika  
 Institusi: Politeknik Elektronika Negeri Surabaya (PENS)  
 Tahun: 2025  
 
