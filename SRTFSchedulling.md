@@ -121,3 +121,9 @@ struct proc {
 | Jenis Algoritma         | Preemptive (SRTF)    | Non-Preemptive (SJF)                       |
 | Proses Bisa Diinterupsi | Ya                   | Tidak                                      |
 | Penjadwalan tiap unit   | Ya (dinamis)         | Tidak (langsung dijalankan sampai selesai) |
+
+<br>
+
+🧑‍💻 6. Output Kode
+
+<img src="./img/SRTF-SchedullingAlgorithms.png"></img>
