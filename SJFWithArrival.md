@@ -132,3 +132,8 @@ Selesai di waktu 16
 * Sorting dilakukan dua tahap: berdasarkan arrival time dulu, lalu burst time.
 * Menyediakan analisis waktu eksekusi seperti Completion Time, Turn Around Time, dan Waiting Time.
 * Cocok untuk memahami dasar algoritma penjadwalan CPU.
+
+
+🧑‍💻 8. Output Kode
+
+<img src="./img/SJF-WithArrivalTime.png"></img>
